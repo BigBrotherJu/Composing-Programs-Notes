@@ -402,7 +402,7 @@ A critical aspect of a programming language is the means it provides for using n
 
   If we draw each expression when we evaluate `sub(pow(2, add(1, 10)), pow(2, 5))`, we get 
 
-  ![expression-tree](chapter1.image/expression-tree.png)
+  ![expression-tree](image/expression-tree.png)
 
   This illustration is called an **expression tree**.
 
