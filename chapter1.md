@@ -669,7 +669,7 @@ Fundamentally, the qualities of good functions all reinforce the idea that funct
 
 - Functions should be defined generally
 
-  Squaring is not in the Python Library precisely because it is a special case of the pow function, which raises numbers to arbitrary powers.
+  Squaring is not in the Python Library precisely because it is a special case of the `pow` function, which raises numbers to arbitrary powers.
 
 ### Documentation
 
